@@ -34,4 +34,3 @@ c:\users\jose witjaksono\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc
 c:\users\jose witjaksono\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
 c:\users\jose witjaksono\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
 c:\users\jose witjaksono\documents\visual studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
-C:\Users\Jose Witjaksono\Documents\Visual Studio 2015\Projects\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
