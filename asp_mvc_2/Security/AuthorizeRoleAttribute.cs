@@ -4,7 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using asp_mvc_2.Models.DB;
-using asp_mvc_2.Models.EntityManager;
+using asp_mvc_2.Models.EntityManager;
+
 
 namespace asp_mvc_2.Security
 {
@@ -36,4 +37,5 @@ namespace asp_mvc_2.Security
         {
             filterContext.Result = new RedirectResult("~/Home/UnAuthorized");
         }
-    }}
+    }
+}

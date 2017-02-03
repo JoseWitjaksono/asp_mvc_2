@@ -65,6 +65,7 @@ namespace asp_mvc_2.Controllers
         {
             FormsAuthentication.SignOut();
             return RedirectToAction("Index", "Home");
-        }
+        }
+
     }
 }
